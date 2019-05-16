@@ -3,7 +3,8 @@
 [include]
 
 [declarations]
-<PROJECT_ROOT>/node_modules/baseui/.*
+<PROJECT_ROOT>/node_modules/invalid-types/.*
+<PROJECT_ROOT>/node_modules/failed-lint/.*
 
 [libs]
 
