@@ -2,6 +2,9 @@
 
 [include]
 
+[declarations]
+<PROJECT_ROOT>/node_modules/baseui/.*
+
 [libs]
 
 [lints]
