@@ -3,8 +3,15 @@
 [include]
 
 [declarations]
-<PROJECT_ROOT>/node_modules/invalid-types/.*
-<PROJECT_ROOT>/node_modules/failed-lint/.*
+<PROJECT_ROOT>/invalid-types.js
+<PROJECT_ROOT>/failed-lint.js
+<PROJECT_ROOT>/node_modules/baseui/.*
+<PROJECT_ROOT>/node_modules/baseui/select/stateful-select-container.js.flow
+<PROJECT_ROOT>/node_modules/baseui/themes/creator.js.flow
+
+[untyped]
+<PROJECT_ROOT>/node_modules/baseui/utils/deep-merge.js.flow
+<PROJECT_ROOT>/node_modules/baseui/styles/styled.js.flow
 
 [libs]
 

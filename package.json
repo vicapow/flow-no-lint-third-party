@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "flow-bin": "^0.98.1"
+    "baseui": "^6.17.4",
+    "flow-bin": "^0.98.1",
+    "styletron-engine-atomic": "^1.1.2",
+    "styletron-react": "^5.0.1",
+    "styletron-standard": "^2.0.3"
   }
 }
