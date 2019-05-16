@@ -1,4 +1,4 @@
-# Demostrate how to add additional lint checks while dealing with dependencies.
+# Demostrates an apparent issue with files configured as declaration still emitting errors
 
 
 to reproduce, install dependencies.
