@@ -1,4 +1,4 @@
-# Demostrates now to ignore errors coming from dependencies while retaining their type signatures.
+# Demostrates how to ignore errors coming from dependencies while retaining their type signatures.
 
 
 ````
